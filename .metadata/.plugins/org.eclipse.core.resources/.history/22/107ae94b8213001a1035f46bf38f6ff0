@@ -32,8 +32,4 @@ public class Preguntas {
 		return pregunta.get(preguntar);
 	}
 	
-	public String obtenerPregunta(int numero){
-		numero--;
-		return this.pregunta.get(numero);
-	}
 }

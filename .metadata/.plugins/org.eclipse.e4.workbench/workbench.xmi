@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_WpBr8RH3EeqeL-bV0L6PtA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_WpBr8hH3EeqeL-bV0L6PtA" bindingContexts="_WpBr9BH3EeqeL-bV0L6PtA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AdministradorPreguntas.java&quot; tooltip=&quot;CrazyCardTrick/AdministradorPreguntas.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/AdministradorPreguntas.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Preguntas.java&quot; tooltip=&quot;CrazyCardTrick/Preguntas.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Preguntas.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Palo.java&quot; tooltip=&quot;CrazyCardTrick/Palo.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Palo.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Carta.java&quot; tooltip=&quot;CrazyCardTrick/Carta.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Carta.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;CrazyCardTrick/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Juego.java&quot; tooltip=&quot;CrazyCardTrick/Juego.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Juego.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AdministradorPreguntas.java&quot; tooltip=&quot;CrazyCardTrick/AdministradorPreguntas.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/AdministradorPreguntas.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Preguntas.java&quot; tooltip=&quot;CrazyCardTrick/Preguntas.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Preguntas.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Palo.java&quot; tooltip=&quot;CrazyCardTrick/Palo.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Palo.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Carta.java&quot; tooltip=&quot;CrazyCardTrick/Carta.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CrazyCardTrick/Carta.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_WpBr8hH3EeqeL-bV0L6PtA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_W-1j4RH3EeqeL-bV0L6PtA" label="%trimmedwindow.label.eclipseSDK" x="104" y="104" width="1024" height="768">
@@ -43,8 +43,8 @@
               </children>
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_XPaWiBH3EeqeL-bV0L6PtA" containerData="7500" selectedElement="_XPaWiRH3EeqeL-bV0L6PtA">
-              <children xsi:type="advanced:Placeholder" xmi:id="_XPaWiRH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_XPICoBH3EeqeL-bV0L6PtA"/>
-              <children xsi:type="basic:PartStack" xmi:id="_XPaWihH3EeqeL-bV0L6PtA" elementId="edu.rice.cs.drjava.InteractionsViewMStack" containerData="3000" selectedElement="_XPaWixH3EeqeL-bV0L6PtA">
+              <children xsi:type="advanced:Placeholder" xmi:id="_XPaWiRH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.editorss" containerData="9000" ref="_XPICoBH3EeqeL-bV0L6PtA"/>
+              <children xsi:type="basic:PartStack" xmi:id="_XPaWihH3EeqeL-bV0L6PtA" elementId="edu.rice.cs.drjava.InteractionsViewMStack" containerData="1000" selectedElement="_XPaWixH3EeqeL-bV0L6PtA">
                 <tags>newtablook</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_XPaWixH3EeqeL-bV0L6PtA" elementId="edu.rice.cs.drjava.InteractionsView" ref="_XPX6QBH3EeqeL-bV0L6PtA">
                   <tags>NoClose</tags>
@@ -57,7 +57,8 @@
           </children>
         </children>
       </children>
-      <children xsi:type="basic:PartStack" xmi:id="_W-2K8RH3EeqeL-bV0L6PtA" elementId="stickyFolderRight" containerData="2500" selectedElement="_W-2K8xH3EeqeL-bV0L6PtA">
+      <children xsi:type="basic:PartStack" xmi:id="_W-2K8RH3EeqeL-bV0L6PtA" elementId="stickyFolderRight" visible="false" containerData="2500" selectedElement="_W-2K8xH3EeqeL-bV0L6PtA">
+        <tags>Minimized</tags>
         <children xsi:type="advanced:Placeholder" xmi:id="_W-2K8hH3EeqeL-bV0L6PtA" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_W-zHoBH3EeqeL-bV0L6PtA"/>
         <children xsi:type="advanced:Placeholder" xmi:id="_W-2K8xH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.internal.introview" ref="_W-080BH3EeqeL-bV0L6PtA"/>
         <children xsi:type="advanced:Placeholder" xmi:id="_W-2K9BH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" toBeRendered="false" ref="_W-1j4BH3EeqeL-bV0L6PtA"/>
@@ -82,33 +83,45 @@
       <tags>categoryTag:Ayuda</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_XPICoBH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.editorss" selectedElement="_XPICoRH3EeqeL-bV0L6PtA">
-      <children xsi:type="basic:PartStack" xmi:id="_XPICoRH3EeqeL-bV0L6PtA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_LlvLUBLAEeqAu5PX5z7TgQ">
+      <children xsi:type="basic:PartStack" xmi:id="_XPICoRH3EeqeL-bV0L6PtA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_jejFYBOCEeqk8LNrltUjsw">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_uDDtcBH3EeqeL-bV0L6PtA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Carta.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Carta.java&quot; partName=&quot;Carta.java&quot; title=&quot;Carta.java&quot; tooltip=&quot;CrazyCardTrick/Carta.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Carta.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;189&quot; selectionTopPixel=&quot;86&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Carta.java&quot; partName=&quot;Carta.java&quot; title=&quot;Carta.java&quot; tooltip=&quot;CrazyCardTrick/Carta.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Carta.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;189&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_7GFCYBH4EeqeL-bV0L6PtA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Palo.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Palo.java&quot; partName=&quot;Palo.java&quot; title=&quot;Palo.java&quot; tooltip=&quot;CrazyCardTrick/Palo.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Palo.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;56&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Palo.java&quot; partName=&quot;Palo.java&quot; title=&quot;Palo.java&quot; tooltip=&quot;CrazyCardTrick/Palo.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Palo.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;38&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_LlvLUBLAEeqAu5PX5z7TgQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Preguntas.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Preguntas.java&quot; partName=&quot;Preguntas.java&quot; title=&quot;Preguntas.java&quot; tooltip=&quot;CrazyCardTrick/Preguntas.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Preguntas.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;659&quot; selectionTopPixel=&quot;35&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Preguntas.java&quot; partName=&quot;Preguntas.java&quot; title=&quot;Preguntas.java&quot; tooltip=&quot;CrazyCardTrick/Preguntas.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Preguntas.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;954&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_njRiUBLCEeqAu5PX5z7TgQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AdministradorPreguntas.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AdministradorPreguntas.java&quot; partName=&quot;AdministradorPreguntas.java&quot; title=&quot;AdministradorPreguntas.java&quot; tooltip=&quot;CrazyCardTrick/AdministradorPreguntas.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/AdministradorPreguntas.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;172&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_jejFYBOCEeqk8LNrltUjsw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Juego.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Juego.java&quot; partName=&quot;Juego.java&quot; title=&quot;Juego.java&quot; tooltip=&quot;CrazyCardTrick/Juego.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Juego.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1021&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_njRiUBLCEeqAu5PX5z7TgQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="AdministradorPreguntas.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AdministradorPreguntas.java&quot; partName=&quot;AdministradorPreguntas.java&quot; title=&quot;AdministradorPreguntas.java&quot; tooltip=&quot;CrazyCardTrick/AdministradorPreguntas.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/AdministradorPreguntas.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;169&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_qWFk8BOCEeqk8LNrltUjsw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Main.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; partName=&quot;Main.java&quot; title=&quot;Main.java&quot; tooltip=&quot;CrazyCardTrick/Main.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CrazyCardTrick/Main.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;374&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -160,7 +173,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XJCowBH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_w3t_pxK2EeqAu5PX5z7TgQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Imprimir" enabled="false" command="_Wp4AgxH3EeqeL-bV0L6PtA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_RKBQBxOAEeqk8LNrltUjsw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Imprimir" enabled="false" command="_Wp4AgxH3EeqeL-bV0L6PtA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XJDP0BH3EeqeL-bV0L6PtA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -181,7 +194,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XJD24BH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_w4A6lBK2EeqAu5PX5z7TgQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Fijar editor" type="Check" command="_WptpmBH3EeqeL-bV0L6PtA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_RKd79BOAEeqk8LNrltUjsw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Fijar editor" type="Check" command="_WptpmBH3EeqeL-bV0L6PtA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XJEd8BH3EeqeL-bV0L6PtA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -219,8 +232,21 @@
       <children xsi:type="menu:ToolControl" xmi:id="_X_JxYBH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.ide.perspectivestack(minimized)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
       </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_luVhQBODEeqk8LNrltUjsw" elementId="ar.com.comunidadesfera.observatorio.exploradorMStack(ar.com.comunidadesfera.observatorio.PerspectivaObservatorio)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_lufSQBODEeqk8LNrltUjsw" elementId="org.eclipse.ui.views.ContentOutlineMStack(ar.com.comunidadesfera.observatorio.PerspectivaObservatorio)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
     </trimBars>
-    <trimBars xmi:id="_XOVYcBH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.trim.vertical2" side="Right"/>
+    <trimBars xmi:id="_XOVYcBH3EeqeL-bV0L6PtA" elementId="org.eclipse.ui.trim.vertical2" side="Right">
+      <children xsi:type="menu:ToolControl" xmi:id="_UquWoBOAEeqk8LNrltUjsw" elementId="stickyFolderRight(minimized)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_luocMBODEeqk8LNrltUjsw" elementId="edu.rice.cs.drjava.InteractionsViewMStack(ar.com.comunidadesfera.observatorio.PerspectivaObservatorio)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+    </trimBars>
   </children>
   <bindingTables xmi:id="_WpBr8xH3EeqeL-bV0L6PtA" contributorURI="platform:/plugin/org.eclipse.platform" bindingContext="_WpBr9BH3EeqeL-bV0L6PtA">
     <bindings xmi:id="_WrAo8hH3EeqeL-bV0L6PtA" keySequence="CTRL+A" command="_Wp51vhH3EeqeL-bV0L6PtA"/>

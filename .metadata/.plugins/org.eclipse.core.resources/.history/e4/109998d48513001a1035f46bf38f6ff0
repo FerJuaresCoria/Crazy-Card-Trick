@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class Juego {
+	
+	private Preguntas preguntas;
+	private List<Carta> mazo;
+	
+	public Juego(){
+		preguntas = new Preguntas();
+		mazo = new ArrayList<Carta>();
+		generarMazo();
+	}
+	
+	public void generarMazo(){
+		int numeroDeCartas = 6;
+		int numeroCarta;
+		Palo paloCarta;
+		for (int i = 0; i < (numeroDeCartas/2); i++){
+			numeroCarta = (int) (Math.random() * 12) + 1;
+			switch((int) (Math.random() * 4)){
+				case 0:
+					mazo.add(numeroCarta, DIAMANTE);
+					break;
+				case 1:
+					break;
+				case 2:
+					break;
+				case 3:
+					break;
+			}
+		}
+	}
+}

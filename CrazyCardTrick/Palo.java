@@ -1,5 +1,5 @@
 
 public enum Palo {
-	CORAZON, DIAMATE, PICA, TREBOL;
+	CORAZON, DIAMANTE, PICA, TREBOL;
 
 }
