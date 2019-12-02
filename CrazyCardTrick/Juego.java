@@ -16,7 +16,7 @@ public class Juego {
 		mezclarMazo();
 	}
 	
-	public void generarMazo(){
+	private void generarMazo(){
 		int numeroDeCartas = 6;
 		int numeroCarta;
 		Palo paloCarta;
@@ -60,7 +60,7 @@ public class Juego {
 				palo= Palo.TREBOL;
 				break;
 			case TREBOL:
-				palo= Palo.DIAMANTE;
+				palo= Palo.PICA;
 				break;
 		}
 		return palo;
@@ -87,5 +87,34 @@ public class Juego {
 	private void mezclarMazo(){
 		Random rndm = new Random();
         Collections.shuffle(this.mazo, rndm);
+        Collections.shuffle(this.mazo, rndm);
 	}
+
+	public void hacerPregunta(){
+		preguntas.preguntar();
+	}
+
+	public void mostrarMazo(){
+		for (Carta carta: mazo){
+			System.out.println(carta.getNumero() + " de " + carta.getPalo());
+		}
+	}
+
+	private void cambiarPalosDeMazoTrucado(){
+		for(Carta carta: mazo){
+			carta.setPalo(cambiarPaloEnBaseAlColor(carta.getPalo()));
+		}
+	}
+	
+	public void generarMazoTrucado(){
+
+		eliminarCarta();
+		cambiarPalosDeMazoTrucado();
+	}
+	
+	private void eliminarCarta(){
+		int elim = (int) (Math.random() * this.mazo.size());
+		this.mazo.remove(elim); 
+	}
+
 }
